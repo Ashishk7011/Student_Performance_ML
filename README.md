@@ -6,7 +6,7 @@ This project demonstrates a complete machine learning pipeline integrated with a
 
 ---
 
-## 
+## 🏗️ Project Structure 
 
 ```
 .
